@@ -1,0 +1,1 @@
+[{'type': 'human', 'data': {'content': 'i am a devops engineer', 'additional_kwargs': {}, 'type': 'human', 'name': None, 'id': None, 'example': False}}, {'type': 'ai', 'data': {'content': ' What is your experience with DevOps?', 'additional_kwargs': {}, 'type': 'ai', 'name': None, 'id': None, 'example': False}}]
